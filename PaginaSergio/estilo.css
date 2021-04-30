@@ -1,0 +1,27 @@
+.Titulo td{
+    background-color: #1b1a17;
+    text-align: center;
+    font-size: 80px;
+    color: #a35709;
+}
+p{
+    font-size: 25px;
+    color: #ff8303;
+}
+.CuadroT td{
+    background-color: #1b1a17;
+    color: #f0e3ca;
+    text-align: center;
+}
+.tablaS th{
+    background-color: #1b1a17;
+    color: #f0e3ca;
+    text-align: center;
+    font-size: 35px;
+}
+.tablaS td{
+    background-color: #1b1a17;
+    color: #ff8303;
+    text-align: center;
+    font-size: 20px;
+}
